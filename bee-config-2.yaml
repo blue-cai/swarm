@@ -16,7 +16,7 @@ db-open-files-limit: "200"
 db-write-buffer-size: "33554432"
 debug-api-addr: :1835
 debug-api-enable: true
-full-node: false
+full-node: true
 gateway-mode: false
 global-pinning-enable: false
 help: false
